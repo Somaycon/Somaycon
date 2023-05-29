@@ -1,4 +1,4 @@
-### Olá! Eu sou o Felipe Somaycon ✌️
+### Hi! I'm Felipe Somaycon ✌️
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/somaycon.f/)
@@ -6,7 +6,7 @@
 
 ![Somaycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Somaycon&show_icons=true&theme=tokyonight)
 
-### Tecnologias que utilizo!
+### Technologies I use
 
 <div style = "display: inline_block"><br/>
   <img aling= "center" alt= "html5"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitee"/>
@@ -16,7 +16,7 @@
   <img aling= "center" alt= "html5"src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
-### 👨‍💻 Um pouco sobre mim:
+### 👨‍💻 About me:
 <ul>
-  <li>🎓 Graduando o curso de Sistemas de Informação</li>
+  <li>🎓 Bacharelor's in "Sistemas de Informação"</li>
 </ul>
