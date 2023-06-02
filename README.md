@@ -5,7 +5,7 @@ I'm junior developer.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/somaycon.f/)
 
 
-![Somaycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Somaycon&show_icons=true&theme=tokyonight)
+![Somaycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Somaycon&show_icons=true&theme=radical)
 
 ### Technologies I use
 
