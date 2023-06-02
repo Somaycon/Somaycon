@@ -1,4 +1,5 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Somaycon;I've+19+years+old;I'm+from+São+Luís,+MA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CE9CE&width=435&linescenter=true&vCenter=true&width=1000&lines=Hello+My+name+is+Felipe+Somaycon;I've+19+years+old;Be+Welcome!+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/somaycon.f/)
 
