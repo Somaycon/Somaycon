@@ -21,3 +21,8 @@ I'm junior developer.
 <ul>
   <li>🎓 Bacharelor's in "Sistemas de Informação"</li>
 </ul>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Somaycon}/count.svg" /></p> 
+<br></div>
