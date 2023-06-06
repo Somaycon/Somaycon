@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77FF19&height=120&section=header"/>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=77FF19&width=435&linescenter=true&vCenter=true&width=900&lines=Hello,+My+name+is+Felipe+Somaycon;I've+19+years+old;Be+Welcome!+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
 
 
@@ -24,3 +27,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Somaycon}/count.svg" /></p> 
 <br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77FF19&height=120&section=footer"/>
