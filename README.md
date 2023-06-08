@@ -8,7 +8,6 @@
 
 
 ![Somaycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Somaycon&show_icons=true&theme=chartreuse-dark)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somaycon&layout=compact&hide_border=true&title_color=77FF19&text_color=77FF19&bg_color=0d1117" />
 
 ### Technologies I use:
 
