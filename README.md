@@ -8,6 +8,7 @@
 
 
 ![Somaycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Somaycon&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somaycon&layout=compact&theme=chartreuse-dark)
 
 ### Technologies I use:
 
