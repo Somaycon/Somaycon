@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&linescenter=true&vCenter=true&width=900&lines=Hello,+My+name+is+Felipe+Somaycon;I've+19+years+old;Be+Welcome!+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&linescenter=true&vCenter=true&width=900&lines=Be+Welcome!+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/somaycon.f/)
