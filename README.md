@@ -5,6 +5,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/somaycon.f/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-somaycon-3b8a24269/)
 
 ![Somaycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Somaycon&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somaycon&layout=compact&theme=transparent)
