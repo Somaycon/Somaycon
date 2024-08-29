@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from São Luis at Maranhão<br><br>- 📚 I am currently studying Information Systems.<br>- ⚡ In my free time I like to play games.</p>
+<p align="left">I'm from São Luis at Maranhão<br><br>- 📚 I am currently studying Information Systems.<br>- ⚡ In my free time I like to play games.</p>
 
 ###
 
